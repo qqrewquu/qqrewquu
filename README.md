@@ -3,10 +3,10 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/zifeng-guo-76582218b/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" width="30" height="30"" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/qqrewquu" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/tskMh.png width="30" height="30"" alt="github"> Github
   </a>
 </p>
 

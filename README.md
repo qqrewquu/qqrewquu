@@ -3,12 +3,15 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/zifeng-guo-76582218b/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" width="30" height="30"" alt="linkedin"> LinkedIn
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="30" height="30"" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/qqrewquu" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png width="30" height="30"" alt="github"> Github
+    <img src="https://raw.githubusercontent.com/qqrewquu/qqrewquu/main/images/GitHub-Mark-120px-plus.png width="30" height="30"" alt="github"> Github
   </a>
 </p>
+
+
+
 
 
 <h3 align="left">About Me: </h3>
@@ -55,6 +58,6 @@ I am currently seeking Full-time and Internship of **Software Engineer** ,**Data
 
 [![Zifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqrewquu&&theme=buefy&show_icons=true)](https://github.com/qqrewquu)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqrewquu&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqrewquu&layout=compact&theme=buefy&hide_border=false" /></a> 
 
 

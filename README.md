@@ -61,3 +61,5 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqrewquu&layout=compact&theme=buefy&hide_border=false" /></a> 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qqrewquu&" alt="Zifeng Guo" /></p>
+

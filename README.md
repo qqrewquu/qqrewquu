@@ -21,16 +21,16 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 
 <h3 align="left">Currently learning: </h3>
 
-Building REST API web service using Springboot, MySQL, and will deploy it on AWS: [Repo Link](https://github.com/qqrewquu/Spring-MVC-Project)
+* Building REST API web service using Springboot, MySQL, and will deploy it on AWS: [Repo Link](https://github.com/qqrewquu/Spring-MVC-Project)
 
 
 
 
 <h3 align="left">What I have done:  </h3>
 
-Built my first **REST API** using Node.js and Express: [Repo Link](https://github.com/qqrewquu/First_Node_Express_RESTFUL_API)
+* Built my first **REST API** using Node.js and Express: [Repo Link](https://github.com/qqrewquu/First_Node_Express_RESTFUL_API)
 
-Developed a **social media application** that user can login with Google Account, and can create, edit, delete and save posts with photos and comments, using React.js, TailwindCSS, and Sanity: [Repo Link](https://github.com/qqrewquu/ShareMe_Memory)
+* Developed a **social media application** that user can login with Google Account, and can create, edit, delete and save posts with photos and comments, using React.js, TailwindCSS, and Sanity: [Repo Link](https://github.com/qqrewquu/ShareMe_Memory)
 
 
 

@@ -16,7 +16,32 @@
 
 <h3 align="left">About Me: </h3>
 
-I am currently seeking Full-time and Internship of **Software Engineer**, **Data Engineer** and **Python Developer** starting at 2023 January. 
+I am currently seeking Full-time and Internship of **Software Engineer**, **Data Engineer**, **Python Developer** and **Web Developer** starting at 2023 January. 
+
+
+<h3 align="left">Currently learning: </h3>
+
+Building RESTAPI web service using Springboot, MySQL, and will deploy it on AWS: [Repo Link](https://github.com/qqrewquu/Spring-MVC-Project)
+
+
+
+
+<h3 align="left">What I have done:  </h3>
+
+Built my first REST API using Node.js and Express: [Repo Link](https://github.com/qqrewquu/First_Node_Express_RESTFUL_API)
+
+Developed a social media application that user can login with Google Account, and can create, edit, delete and save posts with photos and comments, using React.js, TailwindCSS, and Sanity: [Repo Link](https://github.com/qqrewquu/ShareMe_Memory)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,7 +65,7 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="40"/> </a> 
 
 
 

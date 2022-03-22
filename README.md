@@ -14,19 +14,21 @@
 
 
 
-<h3 align="left">About Me: </h3>
+<h2 align="left">🙋‍♂️ About Me: </h2>
 
 I am currently seeking Full-time and Internship of **Software Engineer**, **Data Engineer**, **Python Developer** and **Web Developer** starting at 2023 January. 
 
 
-<h3 align="left">Currently learning: </h3>
+<h2 align="left">🤗 Currently learning: </h2>
 
 * Building REST API web service using Springboot, MySQL, and will deploy it on AWS: [Repo Link](https://github.com/qqrewquu/Spring-MVC-Project)
 
 
 
 
-<h3 align="left">What I have done:  </h3>
+
+
+<h2 align="left">👨‍💻 What I have done:  </h2>
 
 * Built my first **REST API** using Node.js and Express: [Repo Link](https://github.com/qqrewquu/First_Node_Express_RESTFUL_API)
 
@@ -41,12 +43,12 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 
 
 
+## 🚀 Technologies I know
 
 
 
 
-
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h4>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -57,7 +59,7 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 
 
 
-<h3 align="left">Frameworks and Tools:</h3>
+<h4 align="left">Frameworks and Tools:</h4>
 <p align="left"> 
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -71,7 +73,7 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 
 
 
-<h3 align="left">Libraries:</h3>
+<h4 align="left">Libraries:</h4>
 <p align="left"> 
 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg " alt="mysql" width="40" height="40"/> </a> 
@@ -79,7 +81,7 @@ I am currently seeking Full-time and Internship of **Software Engineer**, **Data
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg " alt="mysql" width="40" height="40"/> </a> 
 
 
-<h3 align="left">Github Stats: </h3>
+<h2 align="left">📊 Github Stats: </h2>
 
 [![Zifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqrewquu&&theme=buefy&show_icons=true)](https://github.com/qqrewquu)
 

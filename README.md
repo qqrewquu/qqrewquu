@@ -16,7 +16,9 @@
 
 <h2 align="left">🙋‍♂️ About Me: </h2>
 
-I am currently seeking Full-time and Internship of **Software Engineer**, **Data Engineer**, **Python Developer** and **Web Developer** starting at 2023 January. 
+I am currently seeking Full-time and Internship of **Software Engineer** (Front-end and Back-end), **Machine Learning Engineer**, **Python Developer**, and **Data Engineer**.
+
+
 
 
 <h2 align="left">🤗 Currently learning: </h2>
